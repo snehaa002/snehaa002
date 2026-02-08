@@ -95,13 +95,8 @@
   <a href="https://github.com/snehaa002/github-readme-streak-stats">
   <img align="center" alt="snehasrivastava's streak" src="https://streak-stats.demolab.com/?user=snehaa002&theme=monokai-metallian&hide_border=true"/>
   </a>
-    <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=snehaa002&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&count_private=true"  />
-  </a>
-  
-
-
-</div>
+ 
+ </div>
 
   ---
 
