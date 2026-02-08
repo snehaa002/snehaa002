@@ -1,8 +1,5 @@
 <div align="left">
-
-
-  
-  <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sneha Srivastava </h1>
+ <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sneha Srivastava </h1>
 <h3 align="center">A Passionate Full Stack MERN Web Developer</h3>
 
 <p align="center">
@@ -11,22 +8,12 @@
 </p>
 
 
-
-  
-
-  
-  <p align="center" color:"red"> 
-          <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My Name is Sneha Srivastava 🏽; I am a Full%20Stack%20MERN%20Web%20Developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000">
-      </p> 
+<p align="center" color:"red"> 
+ <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My Name is Sneha Srivastava;I am a Full Stack MERN Web Developer;Interested in Coding;Curious to learn new things!&font=Fira%20Code&center=true&width=500&height=45&color=37bcf7&vCenter=true&size=22&pause=1000" />
+</p> 
   
 
   <img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
-
-
-
-
-
-<br>
 
 
 <p align="left">
@@ -42,9 +29,11 @@
 
 -   <img width="15px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Linkedin Icon" /> Join Me On Linkedin <a href="https://www.linkedin.com/in/sneha-srivastava-4b641a255/">**Sneha Srivastava**</a>
 -   <img width="13px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail Icon" /> How to reach me **srivastavasneha006@gmail.com**
--   <img width="13px" src="https://cdn-icons-png.flaticon.com/512/4365/4365934.png" alt="Portfolio Icon" /> My portfolio **<a>https://snehaa002.github.io/</a>**
+-   <img width="13px" src="https://cdn-icons-png.flaticon.com/512/4365/4365934.png" alt="Portfolio Icon" /> My portfolio: [snehaa002.github.io](https://snehaa002.github.io/)
 
-## Connect with me:
+---
+
+## Connect with me 
 
 <p align="left">
  
@@ -53,8 +42,10 @@
 
 </p>
 
+---
 
-# 🛠 Tech Stack
+
+### 🛠 Tech Stack
 
 ### 🌐 Frontend
 
@@ -109,26 +100,26 @@
 </p>
 
 
+---
 
 
-
-## 🔥 Streak stats :
+## 🔥 Streak stats 
 
 <div align="center">
   <a href="https://github.com/snehaa002/github-readme-streak-stats">
   <img align="center" alt="snehasrivastava's streak" src="https://streak-stats.demolab.com/?user=snehaa002&theme=monokai-metallian&hide_border=true"/>
   </a>
     <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=snehaa002&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&count_private=true" alt="github-readme-streak-stats" alt="snehasrivastava" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=snehaa002&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&count_private=true" alt="github-readme-streak-stats"  />
   </a>
   
 
 
 </div>
 
-  
+  ---
 
-## 📈 GitHub Stats :
+## 📈 GitHub Stats 
 
 <p>
 
@@ -160,4 +151,7 @@
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" color="red">
   </p>
   
-  [Sneha Srivastava](https://github.com/snehaa002)
+
+
+Made with ❤️ by [Sneha Srivastava](https://github.com/snehaa002)
+
